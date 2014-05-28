@@ -1,0 +1,31 @@
+<ion-header-bar class='bar bar-positive'>
+  <h1 class='title'>Places</h1>
+  <button class='button icon-right ion-log-out' ng-click='logout()'></button>
+</ion-header-bar>
+
+
+
+<ion-content>
+  <div ng-if='!places' class='loading-places-div' >
+    <h3 class='loading-places-header'>Please Wait, We're Loading Places Around You...</h3>
+    <i class='icon ion-loading-c loading-places'></i>
+  </div>
+
+  <ul class='list'>
+    <li class='item' ng-repeat='place in places' ng-click='goToChat(place.name)'>
+      <span>{{place.name | limitTo : 25}}</span>
+      <span style='float: right;'>{{place.distance}} km</span>
+    </li>
+  </ul>
+</ion-content>
+
+<ion-footer-bar class='bar bar-positive' ng-if='places'>
+  <label class='item item-input-wrapper search-place-input' >
+    <i class='icon ion-ios7-search-strong placeholder-icon'></i>
+    <input type='text' ng-model='placeSearch' placeholder=' Search For A Place'>
+  </label>
+  <button class='button search-place-button' ng-click='placesBySearch(placeSearch)'>Search</button>
+</ion-footer-bar>  
+
+
+<span id='map' style='display: none;'></span>

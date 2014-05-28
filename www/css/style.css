@@ -1,0 +1,71 @@
+/* Empty. Add your own CSS if you like */
+
+.login-div {
+  overflow: auto;
+  margin-top: 100px;
+  text-align: center;
+}
+
+.login-header {
+
+}
+
+.fb-login {
+  margin-top: 50px;
+}
+
+/* Places */
+
+.loading-places-div {
+  margin-top: 100px;
+  text-align: center;
+  color: #333;
+  opacity: 0.75;
+}
+
+.loading-places-header {
+  color: #333;
+  opacity: 0.75;
+}
+
+.loading-places {
+  font-size: 150px;
+}
+
+.search-place-input {
+
+}
+
+.search-place-button {
+  cursor: pointer;
+} 
+
+.search-place-icon {
+
+}
+
+/* Chat */
+
+.message-other {
+  clear: both;
+  background: rgba(92, 148, 240, 1);
+  color: #FFFFFF;
+  border-radius: 15px;
+  padding: 10px;
+  margin-left: 5px;
+  margin-top: 15px;
+  width: 50%;
+}
+
+.message-you {
+  float: right;
+  clear: both;
+  background: #aaa;
+  color: #FFFFFF;
+  padding: 10px;
+  margin-top: 15px;
+  margin-right: 5px;
+  border-radius: 15px;
+  width: 50%;
+}
+

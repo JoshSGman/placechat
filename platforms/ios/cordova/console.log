@@ -1,0 +1,72 @@
+2014-05-27 17:38:56.180 HelloCordova[95867:70b] Multi-tasking -> Device: YES, App: YES
+2014-05-27 17:38:56.204 HelloCordova[95867:70b] Unlimited access to network resources
+2014-05-27 17:38:56.207 HelloCordova[95867:70b] Restoring old webstorage backup. From: '/Users/JoshSGman/Library/Application Support/iPhone Simulator/7.1/Applications/B8EDD2E2-32D8-47C3-A85E-681F74F25D12/Library/WebKit/LocalStorage/file__0.localstorage' To: '/Users/JoshSGman/Library/Application Support/iPhone Simulator/7.1/Applications/B8EDD2E2-32D8-47C3-A85E-681F74F25D12/Library/Caches/file__0.localstorage'.
+2014-05-27 17:38:56.209 HelloCordova[95867:70b] Removing old webstorage backup: '/Users/JoshSGman/Library/Application Support/iPhone Simulator/7.1/Applications/B8EDD2E2-32D8-47C3-A85E-681F74F25D12/Library/WebKit/LocalStorage/file__0.localstorage'.
+2014-05-27 17:38:56.409 HelloCordova[95867:70b] [CDVTimer][keyboard] 0.084043ms
+2014-05-27 17:38:56.410 HelloCordova[95867:70b] CDVPlugin class CDVStatusBar (pluginName: statusbar) does not exist.
+2014-05-27 17:38:56.411 HelloCordova[95867:70b] [CDVTimer][statusbar] 0.485003ms
+2014-05-27 17:38:56.411 HelloCordova[95867:70b] [CDVTimer][TotalPluginStartup] 1.892984ms
+2014-05-27 17:38:56.564 HelloCordova[95867:70b] Resetting plugins due to page load.
+2014-05-27 17:38:57.966 HelloCordova[95867:70b] Finished load of: file:///Users/JoshSGman/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/B8EDD2E2-32D8-47C3-A85E-681F74F25D12/HelloCordova.app/www/index.html#/chat
+2014-05-27 17:38:59.698 HelloCordova[95867:70b] Resetting plugins due to page load.
+2014-05-27 17:39:01.860 HelloCordova[95867:70b] Failed to load webpage with error: The operation couldn’t be completed. (NSURLErrorDomain error -999.)
+2014-05-27 17:39:01.860 HelloCordova[95867:70b] Resetting plugins due to page load.
+2014-05-27 17:39:04.099 HelloCordova[95867:70b] Finished load of: https://m.facebook.com/login.php?skip_api_login=1&api_key=235968346592629&signed_next=1&next=https%3A%2F%2Fm.facebook.com%2Fv2.0%2Fdialog%2Foauth%3Fredirect_uri%3Dhttps%253A%252F%252Fauth.firebase.com%252Fauth%252Ffacebook%252Fcallback%26state%3D%257B%2522firebase%2522%253A%2522placechatarg%2522%257D%26response_type%3Dcode%26client_id%3D235968346592629%26ret%3Dlogin&cancel_uri=https%3A%2F%2Fauth.firebase.com%2Fauth%2Ffacebook%2Fcallback%3Ferror%3Daccess_denied%26error_code%3D200%26error_description%3DPermissions%2Berror%26error_reason%3Duser_denied%26state%3D%257B%2522firebase%2522%253A%2522placechatarg%2522%257D%23_%3D_&display=touch&_rdr
+2014-05-27 17:39:08.113 HelloCordova[95867:70b] Resetting plugins due to page load.
+2014-05-27 17:39:11.006 HelloCordova[95867:70b] Finished load of: https://auth.firebase.com/auth/facebook/callback?code=AQCvOXkxGzS7FapyCAW2c-xob55UKJyfdZMp9v1bjCyDyvXoXt5AORfWaL1VvcOerYJNif6lh27ztc-VPmMx7TNvy_-XSj4Hfmvo-LSxqkHJJY-rnA4ywxxinE9yKbkJPKvf0TN-2e55ZcEJqBkeMH1qZQBnZ6ezW_p_aySOn8U1h9hDNZy1l9KR3pK8LwuA1QYlfX2akobhfTG3G238LdEQHR7Nktamg8ogtyv2G8YLUO4o-Z24PEW2d9IH_EWYZKOFBfIMK3NjnzK6lfSfTy11-NNTxSMFGJwdgwsE7y3J3Z4Dp8mv2eGp92Dv1e5-kDg&state=%7B%22firebase%22%3A%22placechatarg%22%7D#_=_
+2014-05-27 17:45:45.433 HelloCordova[96266:70b] Multi-tasking -> Device: YES, App: YES
+2014-05-27 17:45:45.441 HelloCordova[96266:70b] Unlimited access to network resources
+2014-05-27 17:45:45.460 HelloCordova[96266:70b] [CDVTimer][keyboard] 0.077963ms
+2014-05-27 17:45:45.461 HelloCordova[96266:70b] CDVPlugin class CDVStatusBar (pluginName: statusbar) does not exist.
+2014-05-27 17:45:45.461 HelloCordova[96266:70b] [CDVTimer][statusbar] 0.485003ms
+2014-05-27 17:45:45.462 HelloCordova[96266:70b] [CDVTimer][TotalPluginStartup] 1.493990ms
+2014-05-27 17:45:45.502 HelloCordova[96266:70b] Resetting plugins due to page load.
+2014-05-27 17:45:46.778 HelloCordova[96266:70b] Finished load of: file:///Users/JoshSGman/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/B8EDD2E2-32D8-47C3-A85E-681F74F25D12/HelloCordova.app/www/index.html#/chat
+2014-05-27 17:46:24.654 HelloCordova[96266:70b] Resetting plugins due to page load.
+2014-05-27 17:46:28.018 HelloCordova[96266:70b] Failed to load webpage with error: You do not have permission to access the requested resource.
+2014-05-27 17:46:28.124 HelloCordova[96266:70b] Resetting plugins due to page load.
+2014-05-27 17:46:30.269 HelloCordova[96266:70b] Failed to load webpage with error: You do not have permission to access the requested resource.
+2014-05-27 17:46:43.260 HelloCordova[96266:70b] Resetting plugins due to page load.
+2014-05-27 17:46:45.284 HelloCordova[96266:70b] Failed to load webpage with error: You do not have permission to access the requested resource.
+2014-05-27 17:56:50.064 HelloCordova[96775:70b] Multi-tasking -> Device: YES, App: YES
+2014-05-27 17:56:50.069 HelloCordova[96775:70b] Unlimited access to network resources
+2014-05-27 17:56:50.082 HelloCordova[96775:70b] [CDVTimer][keyboard] 0.051022ms
+2014-05-27 17:56:50.082 HelloCordova[96775:70b] CDVPlugin class CDVStatusBar (pluginName: statusbar) does not exist.
+2014-05-27 17:56:50.083 HelloCordova[96775:70b] [CDVTimer][statusbar] 0.375986ms
+2014-05-27 17:56:50.083 HelloCordova[96775:70b] [CDVTimer][TotalPluginStartup] 1.118958ms
+2014-05-27 17:56:50.118 HelloCordova[96775:70b] Resetting plugins due to page load.
+2014-05-27 17:56:51.526 HelloCordova[96775:70b] Finished load of: file:///Users/JoshSGman/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/B8EDD2E2-32D8-47C3-A85E-681F74F25D12/HelloCordova.app/www/index.html#/chat
+2014-05-27 17:57:01.054 HelloCordova[96775:70b] Resetting plugins due to page load.
+2014-05-27 17:57:04.860 HelloCordova[96775:70b] Failed to load webpage with error: You do not have permission to access the requested resource.
+2014-05-27 17:57:44.981 HelloCordova[96775:70b] Resetting plugins due to page load.
+2014-05-27 17:57:47.972 HelloCordova[96775:70b] Failed to load webpage with error: You do not have permission to access the requested resource.
+2014-05-27 18:08:00.248 HelloCordova[96775:70b] Resetting plugins due to page load.
+2014-05-27 18:08:03.107 HelloCordova[96775:70b] Failed to load webpage with error: You do not have permission to access the requested resource.
+2014-05-27 18:10:09.565 HelloCordova[97238:70b] Multi-tasking -> Device: YES, App: YES
+2014-05-27 18:10:09.570 HelloCordova[97238:70b] Unlimited access to network resources
+2014-05-27 18:10:09.583 HelloCordova[97238:70b] [CDVTimer][keyboard] 0.051022ms
+2014-05-27 18:10:09.583 HelloCordova[97238:70b] CDVPlugin class CDVStatusBar (pluginName: statusbar) does not exist.
+2014-05-27 18:10:09.584 HelloCordova[97238:70b] [CDVTimer][statusbar] 0.340998ms
+2014-05-27 18:10:09.584 HelloCordova[97238:70b] [CDVTimer][TotalPluginStartup] 1.117945ms
+2014-05-27 18:10:09.613 HelloCordova[97238:70b] Resetting plugins due to page load.
+2014-05-27 18:10:10.935 HelloCordova[97238:70b] Finished load of: file:///Users/JoshSGman/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/B8EDD2E2-32D8-47C3-A85E-681F74F25D12/HelloCordova.app/www/index.html#/chat
+2014-05-27 18:10:20.680 HelloCordova[97238:70b] Resetting plugins due to page load.
+2014-05-27 18:10:25.864 HelloCordova[97238:70b] Finished load of: https://auth.firebase.com/auth/facebook/callback?code=AQB1evJqzXnfCnzkMbH8uQoxLLw_OhJsUG1hbFAnezU9XlB3JQHdyjFJpalR8R-w25UeXjq92toSS5tWPmwSgETUtuw6keSEGXa-BtmdaY29FCcCmOzKtmpFPPuTWgGIMQVHpluJLBh3U9cx3Q_pyFARBpEzoj0Q7K-WBXrZxa7m1vf61Yfpon0thD42raK5935sbXRyFl_KVTT1yxwgaqVQ87OrlSmB1pjPOm2NlqKFqUJptfTedWPh7Oza4sJRVNQpEk4YGvWeszsTZi0-CYPxM7s9BHnCo_r5fUvB18pbFySrjoS6iSca5ql7ob7Ra_Q&state=%7B%22firebase%22%3A%22placechatarg%22%7D#_=_
+2014-05-27 18:11:05.911 HelloCordova[97554:70b] Multi-tasking -> Device: YES, App: YES
+2014-05-27 18:11:05.916 HelloCordova[97554:70b] Unlimited access to network resources
+2014-05-27 18:11:05.929 HelloCordova[97554:70b] [CDVTimer][keyboard] 0.051022ms
+2014-05-27 18:11:05.929 HelloCordova[97554:70b] CDVPlugin class CDVStatusBar (pluginName: statusbar) does not exist.
+2014-05-27 18:11:05.929 HelloCordova[97554:70b] [CDVTimer][statusbar] 0.343978ms
+2014-05-27 18:11:05.930 HelloCordova[97554:70b] [CDVTimer][TotalPluginStartup] 1.128018ms
+2014-05-27 18:11:05.959 HelloCordova[97554:70b] Resetting plugins due to page load.
+2014-05-27 18:11:07.333 HelloCordova[97554:70b] Finished load of: file:///Users/JoshSGman/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/B8EDD2E2-32D8-47C3-A85E-681F74F25D12/HelloCordova.app/www/index.html#/chat
+2014-05-27 18:11:16.050 HelloCordova[97554:70b] Setting the WebView's frame to {{0, 0}, {320, 436}}
+2014-05-27 18:11:16.057 HelloCordova[97554:70b] THREAD WARNING: ['InAppBrowser'] took '36.348145' ms. Plugin should use a background thread.
+2014-05-27 18:11:21.581 HelloCordova[97554:70b] {"code":"USER_DENIED"}
+2014-05-27 18:11:21.582 HelloCordova[97554:70b] {"code":"USER_DENIED"}
+2014-05-27 18:11:21.971 HelloCordova[97554:70b] webView:didFailLoadWithError - 102: Frame load interrupted
+2014-05-27 18:11:22.713 HelloCordova[97554:70b] Setting the WebView's frame to {{0, 0}, {320, 436}}
+2014-05-27 18:11:56.018 HelloCordova[97554:70b] IAB.close() called but it was already closed.
+2014-05-27 18:12:02.711 HelloCordova[97554:70b] IAB.close() called but it was already closed.
+2014-05-27 18:13:59.648 HelloCordova[97554:70b] Setting the WebView's frame to {{0, 0}, {320, 436}}
+2014-05-27 18:14:18.557 HelloCordova[97554:70b] Received memory warning.

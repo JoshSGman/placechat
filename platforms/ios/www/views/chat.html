@@ -1,0 +1,19 @@
+<ion-header-bar class='bar bar-positive'>
+  <button class='button icon-right ion-android-earth' ng-click='goToPlaces()'></button>
+  <h1 class='title'>Chat Room</h1>
+  <button class='button icon-right ion-log-out' ng-click='logout()'></button>
+</ion-header-bar>
+
+<ion-content>
+  <div ng-repeat='msg in messages'>
+    <div class='{{messenger(msg.from)}}'><em>{{msg.from}}</em>:<br> {{msg.body}}</div>
+  </div>
+</ion-content>
+
+<ion-footer-bar class='bar bar-positive'>
+  <label class='item item-input-wrapper'>
+    <i class='icon ion-ios7-paperplane placeholder-icon'></i>
+    <input type='text' ng-model='msg' placeholder=' Send Message'>
+  </label>
+  <button class='button' ng-click='addMessage()'>Send</button>
+</ion-footer-bar>
