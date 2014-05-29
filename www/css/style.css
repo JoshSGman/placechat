@@ -1,35 +1,82 @@
 /* Empty. Add your own CSS if you like */
 
+body {
+  font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif; 
+}
+
+.login-bg {
+  background: url('../img/puerto_madero.jpg');
+  background-repeat: none;
+  background-size: cover;
+  background-position: center;
+  position: fixed;
+  width: 100%;
+  height: 100%;
+}
+
 .login-div {
   overflow: auto;
-  margin-top: 100px;
+  margin-top: 150px;
+  padding-left: 20px;
+  padding-right: 20px;
   text-align: center;
 }
 
 .login-header {
-
+  font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif; 
+  font-weight: 400;
+  color: #FFFFFF;
 }
 
 .fb-login {
+  border: none !important;
+  font-weight: 300;
   margin-top: 50px;
 }
 
 /* Places */
+.places-bg {
+  background: url('../img/puerto_madero.jpg');
+  background-repeat: none;
+  background-size: cover;
+  background-position: center;
+  position: fixed;
+  /*-webkit-filter: blur(2px);*/
+  width: 100%;
+  height: 100%;
+}
 
 .loading-places-div {
   margin-top: 100px;
   text-align: center;
-  color: #333;
-  opacity: 0.75;
+  color: #FFFFFF;
+  opacity: 0.95;
 }
 
 .loading-places-header {
-  color: #333;
-  opacity: 0.75;
+  color: #FFFFFF;
+  opacity: 0.95;
 }
 
 .loading-places {
   font-size: 150px;
+  color: #FFFFFF;
+}
+
+.place-list {
+
+}
+
+.place-item {
+  background: none;
+  border: 1px solid #FFFFFF;
+  color: #FFFFFF;
+  font-weight: 500;
+}
+
+.place-item:hover{
+  background: #FFFFFF;
+  color: #333;
 }
 
 .search-place-input {
@@ -45,27 +92,44 @@
 }
 
 /* Chat */
+.chat-bg {
+  background: url('../img/puerto_madero.jpg');
+  background-repeat: none;
+  background-size: cover;
+  background-position: center;
+  position: fixed;
+  width: 100%;
+  height: 100%;
+}
 
 .message-other {
   clear: both;
-  background: rgba(92, 148, 240, 1);
+  background: #aaa;
   color: #FFFFFF;
   border-radius: 15px;
   padding: 10px;
   margin-left: 5px;
-  margin-top: 15px;
+  margin-top: 10px;
   width: 50%;
 }
 
 .message-you {
   float: right;
   clear: both;
-  background: #aaa;
+  background: rgba(92, 148, 240, 1);
   color: #FFFFFF;
   padding: 10px;
-  margin-top: 15px;
+  margin-top: 10px;
   margin-right: 5px;
   border-radius: 15px;
   width: 50%;
+}
+
+.message-you:last-child {
+  margin-bottom: 10px;
+}
+
+.chat-footer {
+
 }
 
