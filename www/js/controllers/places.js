@@ -117,7 +117,7 @@ app.controller('PlacesController',['$scope', '$firebase', '$state','$http','Chat
   };
 
   var deg2rad = function(deg) {
-    return deg * (Math.PI/180)
+    return deg * (Math.PI/180);
   };
 
   $scope.goToChat = function(placeName){

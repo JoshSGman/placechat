@@ -18,8 +18,7 @@ app.run(function($ionicPlatform) {
   });
 });
 
-app.config(function($stateProvider, $urlRouterProvider, $httpProvider) {
-
+app.config(function($stateProvider, $urlRouterProvider) {
 
   $stateProvider
     .state('login',{
@@ -35,7 +34,12 @@ app.config(function($stateProvider, $urlRouterProvider, $httpProvider) {
     .state('chat',{
       url: '/chat',
       controller: 'ChatController',
-      templateUrl: 'views/chat.html'
+      templateUrl: 'views/chat.html',
+      resolve: {
+        getMessages : function(ChatRoom){
+          return ChatRoom.getMessages();
+        }
+      }
     });
 
     $urlRouterProvider.otherwise('/chat');
